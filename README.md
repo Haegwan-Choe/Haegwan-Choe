@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond-sw-camp&repo=Be09-Fin-Pado-InFlow-BE)](https://github.com/beyond-sw-camp/Be09-Fin-Pado-InFlow-BE)
 ### ▪ 요리보고 - 공공데이터를 활용한 AI 요리 레시피 추천 서비스
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond-sw-camp&repo=be09-4th-4vengers-Yoribogo)](https://github.com/beyond-sw-camp/be09-4th-4vengers-Yoribogo)
-### ▪ momentours - 커플을 위한 추억 기록 웹 서비스(모바일 앱으로 변경하여 개발중)
+### ▪ momentours - 커플을 위한 추억 기록 웹 서비스(백엔드 프로젝트)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beyond-sw-camp&repo=be09-2nd-myhandJAVA-momentours)](https://github.com/beyond-sw-camp/be09-2nd-myhandJAVA-momentours)
 ### ▪ 시장하시죠 - 공공데이터를 활용한 전통시장  (졸업 프로젝트)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CSID-DGU&repo=2025-1-SCS4031-mergeWhat-S3)](https://github.com/CSID-DGU/2025-1-SCS4031-mergeWhat-S3/tree/haegwan-back)
